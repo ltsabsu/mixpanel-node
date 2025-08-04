@@ -32,6 +32,6 @@
     "vitest": "^1.6.0"
   },
   "dependencies": {
-    "https-proxy-agent": "5.0.0"
+    "https-proxy-agent": "5.0.1"
   }
 }
